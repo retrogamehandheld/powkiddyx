@@ -10,7 +10,7 @@ Work area for hacks and mods for the PowKiddy X18 and X15 RetroGamingHandhelds D
 * RAM: 2 GB DDR3
 * Android version: 7 (Nougat)
 * External MicroSD slot: Yes
-* Battery: 5000 mAh
+* Battery: 5000 mAh (x18), 3000 mAh (x15). 
 * Charging Port: MicroUSB (x18), MicroUSB+Barrell (x15)
 * Internal Storage: 16 GB (x18), 32 GB (x15)
 * External Connectors: 2 x USB-A (x15 only)
