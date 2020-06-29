@@ -1,5 +1,5 @@
-# PowKiddy X18  
-Work area for hacks and mods for the PowKiddy X18 RetroGamingHandhelds Discord channel. Please note most of this material is in the process of development and testing.
+# PowKiddy X18 and X15
+Work area for hacks and mods for the PowKiddy X18 and X15 RetroGamingHandhelds Discord channel. Please note most of this material is in the process of development and testing.
 
 ## Specs
 
@@ -9,8 +9,9 @@ Work area for hacks and mods for the PowKiddy X18 RetroGamingHandhelds Discord c
 * GPU: Mali T720
 * RAM: 2 GB DDR3
 * Android version: 7 (Nougat)
-* Internal Storage: 16 GB
 * External MicroSD slot: Yes
 * Battery: 5000 mAh
-* Charging Port: MicroUSB
+* Charging Port: MicroUSB (x18), MicroUSB+Barrell (x15)
+* Internal Storage: 16 GB (x18), 32 GB (x15)
+* External Connectors: 2 x USB-A (x15 only)
 
